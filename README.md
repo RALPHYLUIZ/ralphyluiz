@@ -4,10 +4,16 @@ Bem vindo! 🙋‍♂️
 
 Eu sou Ralphy Luiz.
 
-Estudo Web-design Fron-end:
+Estudo Web-design Fron-end: <b>
 💻 html <br>
 🖥️ css <br>
 📱 javascript <b>
 📆 Controle <b>
 
 <hr>
+
+Minhas redes:
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RALPHYLUIZ)](https://github.com/RALPHYLUIZ)
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianocorreademoraes/)](https://www.linkedin.com/in/cristianocorreademoraes/)
