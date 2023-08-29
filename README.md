@@ -24,7 +24,7 @@ Minhas estatísticas
 
 [![RALPHYLUIZ GitHub stats](https://github-readme-stats.vercel.app/api?username=RALPHYLUIZ&theme=cobalt)](https://github.com/RALPHYLUIZ/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RALPHYLUIZ&layout=pie)](https://github.com/RALPHYLUIZ/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RALPHYLUIZ&layout=pie&theme=cobalt)](https://github.com/RALPHYLUIZ/github-readme-stats)
 
 <hr>
 
