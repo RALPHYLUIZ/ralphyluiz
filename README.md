@@ -5,6 +5,9 @@ Bem vindo! 🙋‍♂️
 Eu sou Ralphy Luiz.
 
 Estudo Web-design Fron-end:
-html
-css
-javascript
+💻 html <br>
+🖥️ css <br>
+📱 javascript <b>
+📆 Controle <b>
+
+<hr>
