@@ -4,7 +4,7 @@ Bem vindo! 🙋‍♂️
 
 Eu sou Ralphy Luiz.
 
-Estudo Web-design Fron-end: <b>
+Estudo Web-design Front-end: <b>
 
 💻 html <br>
 🖥️ css <br>
@@ -23,3 +23,5 @@ Minhas redes:
 Minhas estatísticas 
 
 [![RALPHYLUIZ GitHub stats](https://github-readme-stats.vercel.app/api?username=RALPHYLUIZ)](https://github.com/RALPHYLUIZ/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RALPHYLUIZ&layout=compact)](https://github.com/RALPHYLUIZ/github-readme-stats)
