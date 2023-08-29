@@ -6,8 +6,10 @@ Eu sou Ralphy Luiz.
 
 Estudo Web-design Fron-end: <b>
 
-💻 html <br>🖥️ css <br>
-📱 javascript <b>📆 Controle <b>
+💻 html <br>
+🖥️ css <br>
+📱 javascript <b>
+📆 Controle <b>
 
 <hr>
 
